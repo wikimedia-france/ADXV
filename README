@@ -1,0 +1,4 @@
+Pour l'instant c'est du Perl mais ça sera du python après.
+
+*Le check_cote.pl permet de vérifier que les cotes des ADXV correspondent bien à l'identifiant du média (dans le tag DAO).
+*Y'a un fichier ADXV.pl qui découpe les XML en un fichier par document (DAO), avec les données qui vont bien. Mais c'est pas encore pushé.
