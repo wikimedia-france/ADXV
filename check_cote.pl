@@ -65,7 +65,7 @@ while($toto=<INADXV>){
 		$mediaNum = $splitMediaMult[0];
 #		print "Splitted\n";
 		}
-	print " b : $mediaNum\n";
+#	print " b : $mediaNum\n";
 	push(@Multiple, $mediaNum); # an array is always created. Whether there are several <dao> for the same <c> or not.
 #	print "Hello";
 #	print $splitMedia[0];
